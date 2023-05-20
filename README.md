@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Vikki2002
-- 👀 I’m interested in ...Developement
-- 🌱 I’m currently learning ... Frontend Developer
+- 👋 Hi, I’m Vikki kuswaha (@Vikki2002)
+- 👀 I’m interested in ... Andriod Developement
+- 🌱 I’m currently learning ... java
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
