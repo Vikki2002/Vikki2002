@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Vikki kuswaha (@Vikki2002)
-- 👀 I’m interested in ... Andriod Developement
+- 👀 I’m interested in ... Web Developement
 - 🌱 I’m currently learning ... java
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
